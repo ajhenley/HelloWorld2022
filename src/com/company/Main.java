@@ -12,8 +12,6 @@ public class Main {
         double dbl;
         dbl = 3.14;
         y = 2;
-        System.out.print("Hello Class");
-        System.out.print("Hello Class");
         System.out.println("Hello Class");
         System.out.println(x);
         System.out.println(y);
